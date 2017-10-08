@@ -5,12 +5,18 @@ Education
 ---------
 
 * National High-school in Finance and Business, Sofia, Bulgaria
-    Banking
 
+-Banking
+
+    
 * Tilburg University, Tilburg, The Netherlands
-    BSc Economics
+
+-BSc Economics
+
+    
 * Tilburg University, Tilburg, The Netherlards
-    (expected) MSc Economics
+    
+-(expected) MSc Economics
 
 Work experience
 ---------------
