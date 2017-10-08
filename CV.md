@@ -1,5 +1,6 @@
 CV Daniela Petrova
 ==================
+<img src="http://thumb.ibb.co/cEjXFb/dpp.jpg">
 
 Education
 ---------
